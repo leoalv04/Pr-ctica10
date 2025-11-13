@@ -1,6 +1,3 @@
-/*Alfonso Francisco De Abiega L'eglisse
-laboratorio 10 programa 1*/
-
 #include<stdio.h>
 
 int main()
